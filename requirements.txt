@@ -1,0 +1,9 @@
+openai
+pandas
+tqdm
+python-dotenv
+streamlit==1.34.0
+pandas
+plotly           # ← esto es lo que falta
+kaleido          # si usas fig.to_image(...)
+openpyxl         # si lees archivos .xlsx
